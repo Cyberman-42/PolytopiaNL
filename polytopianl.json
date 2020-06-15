@@ -148,7 +148,7 @@
   "world.building.capture.ready.title": "Verover {0}!",
   "world.building.capture.warning": "Veroveren gaat door volgende beurt als je niks doet.",
   "world.building.capture.warning.title": "{0} is onder aanval!",
-  "world.attract.sanctuary": "Je opvang heeft een wild dier gelokt!",
+  "world.attract.sanctuary": "Je heiligdom heeft een wild dier gelokt!",
   "world.loading": "LADEN {0}%",
   "world.suggestion.title": "Hier is een tip!",
 
@@ -258,7 +258,7 @@
   "building.names.mountaintemple": "Bergtempel",
   "building.names.mine": "Mijn",
   "building.names.forge": "Smeltoven",
-  "building.names.sanctuary": "Opvang",
+  "building.names.sanctuary": "Heiligdom",
   "building.names.enchant": "Betover dier",
   "building.names.enchant_whale": "Betover walvis",
   "building.names.ice_bank": "IJsbank",
